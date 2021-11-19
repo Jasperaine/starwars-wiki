@@ -1,7 +1,7 @@
 export const homeTabs = [
   {
     label: "About",
-    value: "about"
+    value: ""
   },
   {
     label: "Films",
